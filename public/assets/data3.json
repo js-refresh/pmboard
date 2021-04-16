@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "team 3 bugs",
+      "body": "fixing navigation bug...",
+      "lane": 1
+    },
+    {
+      "id": 2,
+      "title": "team 3 website",
+      "body": "release new website",
+      "lane": 2
+    },
+    {
+      "id": 3,
+      "title": "team 3 buttons - color",
+      "body": "change button color",
+      "lane": 3
+    },
+    {
+      "id": 4,
+      "title": "team 3 acceptance environment",
+      "body": "deploy server on acceptance environment",
+      "lane": 3
+    },
+    {
+      "id": 5,
+      "title": "team 3 - Change layout",
+      "body": "change layout for content page",
+      "lane": 3
+    },
+    {
+      "id": 6,
+      "title": "team 3 - registration flow",
+      "body": "registration flow",
+      "lane": 4
+    },
+    {
+      "id": 7,
+      "title": "team 3 database instance",
+      "body": " database instance",
+      "lane": 4
+    }
+  ]
+  
