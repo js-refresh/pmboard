@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const HeaderWrapper = styled.div`
   background-color: green;
   height: 100%;
-  margin:  7% 3% 1% 3%;
+  margin:  10% 3% 1% 3%;
   display: flex;
   flex-direction: column;
   align-items: center;

@@ -43,8 +43,10 @@ class App extends Component {
     return (
       <>
         <Header />
+        {/* <div className="sticky-top"> */}
         <Progress />
-        {/* <ProgressBar animated now={45} /> */}
+        {/* </div> */}
+        <br/>
 
         <GlobalStyle />
 

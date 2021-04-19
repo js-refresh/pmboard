@@ -21,7 +21,7 @@
       "id": 4,
       "title": "team 3 acceptance environment",
       "body": "deploy server on acceptance environment",
-      "lane": 3
+      "lane": 1
     },
     {
       "id": 5,
